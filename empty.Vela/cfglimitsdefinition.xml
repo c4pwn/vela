@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<lists>
+    <categories>
+        <category name="rifles" />
+        <category name="pistols" />
+        <category name="weapons" />
+        <category name="sniper" />
+        <category name="explosives" />
+        <category name="tools" />
+        <category name="lore" />
+        <category name="food" />
+        <category name="medical" />
+        <category name="containers" />
+        <category name="clothes" />
+        <category name="bags" />
+        <category name="vehiclesparts" />
+    </categories>
+    <tags>
+      <tag name="military" />
+      <tag name="civilian" />
+      <tag name="hunting" />
+      <tag name="police" />
+      <tag name="industrial" />
+      <tag name="farm" />
+      <tag name="medic" />
+      <tag name="firefighter" />
+      <tag name="fishing" />
+      <tag name="castle" />
+      <tag name="Coast" />
+      <tag name="cheyenne" />
+      <tag name="seasonalevent" />
+      <tag name="School"/>
+      <tag name="prison"/>
+    </tags>
+    <usageflags />
+    <valueflags>
+        <value name="Tier1"/>
+        <value name="Tier2"/>
+        <value name="Tier3"/>
+        <value name="Tier4"/>
+        <value name="Tier5"/>
+    </valueflags>
+</lists>
