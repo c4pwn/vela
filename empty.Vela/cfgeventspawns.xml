@@ -48,6 +48,15 @@
     <zone smin="1" smax="3" dmin="3" dmax="5" r="45" />
   </event>
   <event name="ItemPlanks"></event>
+  <event name="VehicleOffroad02">
+    <pos x="3719.851318" z="5828.246094" a="7.950795" />
+    <pos x="2930.390381" z="3670.188965" a="27.764574" />
+    <pos x="4547.632813" z="2808.726563" a="37.322460" />
+    <pos x="1660.477173" z="1979.622803" a="28.850386" />
+    <pos x="732.217896" z="2425.426514" a="10.211345" />
+    <pos x="1787.585938" z="3805.573242" a="33.408848" />
+    <pos x="1339.524780" z="3836.200195" a="17.933208" />
+	</event>
   <event name="VehicleTruck01"></event>
   <event name="VehicleTransitBus" />
   <event name="InfectedVillage" />
